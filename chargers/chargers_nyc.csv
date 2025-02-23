@@ -1,0 +1,18 @@
+name,label_name,lat,lon,max_chargers,kw,fixed_cost,charger_cost,n_chargers
+Fordham Plaza,fordham_plaza,40.86178,-73.89069,8,150,600000,120000,4
+Pelham Bay Park Station,pelham_bay,40.85292,-73.82830,5,150,500000,100000,3
+Co-op City Bay Plaza,coop_city,40.86974,-73.82738,6,150,500000,100000,3
+Kingsbridge Bus Depot,kingsbridge_depot,40.86940,-73.89770,8,150,600000,120000,4
+Atlantic Terminal,atlantic_terminal,40.68498,-73.97716,10,150,600000,120000,5
+Williamsburg Bridge Plaza Bus Terminal,williamsburg_plaza,40.71256,-73.96230,6,150,500000,100000,3
+Brooklyn College / Flatbush Avenue,brooklyn_college,40.63284,-73.94679,5,150,500000,100000,3
+Coney Island – Stillwell Avenue Terminal,coney_island,40.57728,-73.98190,7,150,600000,120000,4
+Gateway Center (Spring Creek),gateway_center,40.65215,-73.87028,5,150,500000,100000,3
+Jamaica Center – Parsons/Archer,jamaica_center,40.70215,-73.80111,10,150,600000,120000,5
+Flushing – Main Street,flushing_main,40.75960,-73.83000,8,150,600000,120000,4
+LaGuardia Airport,laguardia_airport,40.77693,-73.87397,6,150,500000,100000,3
+Kew Gardens – Union Tpke,kew_gardens,40.71465,-73.83223,5,150,500000,100000,3
+Far Rockaway – Mott Avenue,far_rockaway,40.60400,-73.75541,4,150,400000,90000,2
+St. George Ferry Terminal,st_george_ferry,40.64417,-74.07362,6,150,500000,100000,3
+Eltingville Transit Center,eltingville_center,40.54430,-74.16810,5,150,500000,100000,3
+Staten Island Mall,staten_island_mall,40.58233,-74.15646,5,150,500000,100000,3
