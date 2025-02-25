@@ -1,0 +1,2 @@
+obj_val,n_backups,num_stations,num_chargers,num_charges,charge_time,deadhead_time,operations_cost,recov_time_lost,capital_cost,N at 161st StreetYankee Stadium Station,N at 207th Street Station,N at Coney IslandStillwell Avenue Terminal,N at Fordham Plaza,stations
+14248910.591666667,21,2,4,72.0,425.7704032919367,825.4441666666667,11448910.591666667,1251.2145699586033,2800000.0,0,0,2,2,"['Coney IslandStillwell Avenue Terminal', 'Fordham Plaza']"

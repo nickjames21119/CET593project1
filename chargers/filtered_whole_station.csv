@@ -1,0 +1,14 @@
+name,label_name,lat,lon,max_chargers,kw,fixed_cost,charger_cost,n_chargers
+Fordham Plaza,Fordham Plaza,40.8615,-73.8906,8,150,500000,50000,8
+Coney IslandStillwell Avenue Terminal,Coney Island,40.5773,-73.9819,7,150,470000,50000,7
+161st StreetYankee Stadium Station,Yankee Stadium,40.827,-73.9255,6,150,450000,50000,6
+207th Street Station,207th Street,40.8646,-73.9188,5,150,400000,50000,5
+Station 28,Brighton Beach,40.57,-73.97,12,150,400000,50000,12
+Station 30,Sheepshead Bay,40.59,-73.99,14,150,400000,50000,14
+Station 31,Rockaway Park-Beach 116th Street,40.5,-73.9,5,150,400000,50000,5
+Station 32,Beach 105th Street,40.51,-73.91,6,150,400000,50000,6
+Station 33,Beach 98th Street,40.52,-73.92,7,150,400000,50000,7
+Station 34,Beach 90th Street,40.53,-73.93,8,150,400000,50000,8
+Station 35,Beach 67th Street,40.54,-73.94,9,150,400000,50000,9
+Station 36,Beach 60th Street,40.55,-73.95,10,150,400000,50000,10
+Station 37,Beach 44th Street,40.56,-73.96,11,150,400000,50000,11
