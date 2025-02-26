@@ -1,0 +1,2 @@
+obj_val,n_backups,num_stations,num_chargers,num_charges,charge_time,deadhead_time,operations_cost,recov_time_lost,capital_cost,N at Coney IslandStillwell Avenue Terminal,N at Flushing–Main Street,N at Gateway Center (Spring Creek),N at Jamaica Center–Parsons/Archer,N at Staten Island Mall,N at Third Avenue-138th Street Station,N at Williamsburg Bridge Plaza Bus Termina,stations
+4805201.305,3,2,2,21.0,141.16820059389954,130.1515,1805201.305,271.31970059389954,3000000.0,0,0,0,1,0,0,1,"['Jamaica Center–Parsons/Archer', 'Williamsburg Bridge Plaza Bus Termina']"
